@@ -1,6 +1,6 @@
 {
   "name": "abCards-for-kids",
-  "homepage": "https://YuriiMedvediev.github.io/abccards-for-kids/",
+  "homepage": "https://YuriiMedvediev.github.io/abcards-for-kids/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,7 +24,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
