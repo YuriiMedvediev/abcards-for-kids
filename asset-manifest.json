@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/abcards-for-kids/static/css/main.5efb4fea.css",
-    "main.js": "/abcards-for-kids/static/js/main.83d84ce6.js",
+    "main.js": "/abcards-for-kids/static/js/main.c616ccfa.js",
     "static/js/787.67467682.chunk.js": "/abcards-for-kids/static/js/787.67467682.chunk.js",
-    "static/media/abc.png": "/abcards-for-kids/static/media/abc.f94053a6073ecf8885b3.png",
+    "static/media/abc.png": "/abcards-for-kids/static/media/abc.926fcaa0a428de816a3d.png",
     "static/media/imageNotFound.png": "/abcards-for-kids/static/media/imageNotFound.298b98203c3825c61303.png",
     "index.html": "/abcards-for-kids/index.html",
     "main.5efb4fea.css.map": "/abcards-for-kids/static/css/main.5efb4fea.css.map",
-    "main.83d84ce6.js.map": "/abcards-for-kids/static/js/main.83d84ce6.js.map",
+    "main.c616ccfa.js.map": "/abcards-for-kids/static/js/main.c616ccfa.js.map",
     "787.67467682.chunk.js.map": "/abcards-for-kids/static/js/787.67467682.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5efb4fea.css",
-    "static/js/main.83d84ce6.js"
+    "static/js/main.c616ccfa.js"
   ]
 }
